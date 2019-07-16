@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{8DF21C50-96E9-420C-ACBA-AB2FD65B5AF8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Formulas/Program.cs">
+    <Files>
+      <File FileName="Formulas/Program.cs" Line="14" Column="38" />
+      <File FileName="../Methods/Methods/Program.cs" Line="9" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Formulas FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

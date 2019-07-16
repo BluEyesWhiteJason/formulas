@@ -1,0 +1,11 @@
+/Users/jason/Projects/Formulas/Formulas/obj/Debug/netcoreapp2.1/Formulas.csprojAssemblyReference.cache
+/Users/jason/Projects/Formulas/Formulas/obj/Debug/netcoreapp2.1/Formulas.csproj.CoreCompileInputs.cache
+/Users/jason/Projects/Formulas/Formulas/obj/Debug/netcoreapp2.1/Formulas.AssemblyInfoInputs.cache
+/Users/jason/Projects/Formulas/Formulas/obj/Debug/netcoreapp2.1/Formulas.AssemblyInfo.cs
+/Users/jason/Projects/Formulas/Formulas/bin/Debug/netcoreapp2.1/Formulas.deps.json
+/Users/jason/Projects/Formulas/Formulas/bin/Debug/netcoreapp2.1/Formulas.runtimeconfig.json
+/Users/jason/Projects/Formulas/Formulas/bin/Debug/netcoreapp2.1/Formulas.runtimeconfig.dev.json
+/Users/jason/Projects/Formulas/Formulas/bin/Debug/netcoreapp2.1/Formulas.dll
+/Users/jason/Projects/Formulas/Formulas/bin/Debug/netcoreapp2.1/Formulas.pdb
+/Users/jason/Projects/Formulas/Formulas/obj/Debug/netcoreapp2.1/Formulas.dll
+/Users/jason/Projects/Formulas/Formulas/obj/Debug/netcoreapp2.1/Formulas.pdb
